@@ -1,0 +1,51 @@
+2021-02-25 19:37:16 INFO  girisYap:37 - asdasd
+2021-02-25 19:39:33 INFO  girisYap:146 - There are no differences between prices
+2021-02-25 19:44:30 INFO  girisYap:148 - There are no differences between prices
+2021-02-25 19:48:26 INFO  girisYap:60 - true
+2021-02-25 19:48:42 INFO  girisYap:153 - There are no differences between prices
+2021-02-25 19:57:18 INFO  girisYap:57 - true
+2021-02-25 19:57:32 INFO  girisYap:57 - true
+2021-02-25 19:57:36 INFO  girisYap:142 - basarılı
+2021-02-25 19:57:47 INFO  girisYap:160 - There are no differences between prices
+2021-02-25 19:58:54 INFO  girisYap:57 - true
+2021-02-25 19:58:58 INFO  girisYap:142 - basarılı
+2021-02-25 20:01:26 INFO  girisYap:148 - org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N6IGTKK', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: RemoteWebDriver
+2021-02-25 20:01:42 INFO  girisYap:145 - basarılı
+2021-02-25 20:03:18 INFO  girisYap:63 - page loaded successfully
+2021-02-25 20:03:22 INFO  girisYap:148 - basarılı
+2021-02-25 20:14:28 INFO  girisYap:63 - page loaded successfully
+2021-02-25 20:14:33 INFO  girisYap:126 - basarılı
+2021-02-25 20:14:44 INFO  girisYap:180 - Price different with basket = -2499.9
+2021-02-25 20:15:13 INFO  girisYap:63 - page loaded successfully
+2021-02-25 20:15:17 INFO  girisYap:126 - basarılı
+2021-02-25 20:15:27 INFO  girisYap:182 - There are no differences between prices
+2021-02-25 20:19:48 INFO  girisYap:63 - page loaded successfully
+2021-02-25 20:19:56 INFO  girisYap:129 - org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N6IGTKK', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: RemoteWebDriver
+2021-02-25 20:20:07 INFO  girisYap:63 - page loaded successfully
+2021-02-25 20:20:11 INFO  girisYap:126 - basarılı
+2021-02-25 20:20:15 INFO  girisYap:159 - second page loaded successfully
+2021-02-25 20:20:21 INFO  girisYap:187 - There are no differences between prices
+2021-02-25 20:24:48 INFO  girisYap:63 - page loaded successfully
+2021-02-25 20:24:52 INFO  girisYap:132 - basarılı
+2021-02-25 20:25:04 INFO  girisYap:186 - There are no differences between prices
+2021-02-25 20:25:07 INFO  girisYap:104 - sepet dolu
+2021-02-25 20:26:03 INFO  girisYap:63 - page loaded successfully
+2021-02-25 20:26:07 INFO  girisYap:132 - basarılı
+2021-02-25 20:26:19 INFO  girisYap:184 - Price different with basket = 14.259999999999991
+2021-02-25 20:26:22 INFO  girisYap:104 - sepet dolu
+2021-02-25 20:28:42 INFO  girisYap:63 - page loaded successfully
+2021-02-25 20:28:46 INFO  girisYap:133 - basarılı
+2021-02-25 20:28:58 INFO  girisYap:187 - There are no differences between prices
+2021-02-25 20:29:01 INFO  girisYap:105 - sepet dolu
+2021-02-25 20:31:33 INFO  girisYap:63 - page loaded successfully
+2021-02-25 20:31:39 INFO  girisYap:133 - basarılı
+2021-02-25 20:31:50 INFO  girisYap:187 - There are no differences between prices
+2021-02-25 20:31:54 INFO  girisYap:103 - sepet boş
